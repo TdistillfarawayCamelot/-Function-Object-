@@ -1,4 +1,4 @@
-# -Function-Object-
+# 思考：原型中Function和Object之间的关系
 原型的一些拓展
 ### 算是查了一些资料然后自己总结了一下，反正没消化完以后估计也会忘，先存着
 ![](http://a4.qpic.cn/psb?/V118JuTr0BKcy7/1XpjZtPCYcExisnyXyJM0WKFQ.DLmFJMs.uMysd61tU!/m/dPMAAAAAAAAA&bo=9wSAAgAAAAADB1M!&rf=photolist)
