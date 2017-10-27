@@ -32,3 +32,5 @@ console.log(Object instanceof Function);// true
 
 // 思考题：Object和Function的原型属性是谁? - Object为什么是Function类型?
 ```
+### 这是我导师的想法图，嘛也存上来好了。。。。
+![](http://a4.qpic.cn/psb?/V118JuTr0BKcy7/8kaNE3yEtmNxNU2M4Rb8whOmQQjBi1qghC315cygbJk!/m/dPMAAAAAAAAA&bo=GwWAAgAAAAADB74!&rf=photolist)
